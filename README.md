@@ -1,6 +1,6 @@
 # FinancialProjection
 
-![FinancialProjection](/Users/taejoongyoon/Developer/etc/FinancialProjection/FinancialProjection.png)
+![FinancialProjection](https://github.com/TaeJoongYoon/FinancialProjection/blob/master/FinancialProjection.png)
 
 ### 1. Assumption
 
